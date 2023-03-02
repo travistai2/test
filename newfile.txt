@@ -5,3 +5,5 @@ Adding changes
 Second round of adding changes
 
 committing but not adding
+
+another line to commit and add
